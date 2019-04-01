@@ -13,7 +13,7 @@ $auto = array(
     array("KR-RT-65", "Volkswagen", "Golf", "1999-08-08", "42000"),
     array("PT-ER-45", "Ford", "Fiesta", "1999-08-08", "25000"),
     array("TT-PR-73", "Citroen", "XM", "1999-03-02", "1200"),
-    array("TT-RW-01", "Volkswagen", "Polo", "1999-11-14", "4500")
+    array("TT-RW-01", "Volkswagen", "Polo", "1999-11-14", "4500"),
 );
 
 echo "<table border='1'>";
@@ -26,15 +26,4 @@ for ($row = 0; $row < 7; $row++) {
     echo "</tr>";
 }
 echo "</tr>";
-?>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Opdracht 4</title>
-</head>
-<body>
-
-</body>
-</html>

@@ -18,5 +18,7 @@
 <a href="KeuzeOpdracht/opdracht02.php">Keuzeopdracht 2</a><br>
 <a href="KeuzeOpdracht/opdracht03.php">Keuzeopdracht 3</a><br>
 <a href="KeuzeOpdracht/opdracht04.php">Keuzeopdracht 4</a><br>
+<a href="KeuzeOpdracht/opdracht05.php">Keuzeopdracht 5</a><br>
+<a href="KeuzeOpdracht/opdracht08.php">Keuzeopdracht 8</a><br>
 </body>
 </html>

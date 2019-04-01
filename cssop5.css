@@ -1,0 +1,98 @@
+body{
+    width: 1000px;
+    margin: auto;
+}
+
+
+.bigHeader{
+    background-color: rgb(222, 184, 136);
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.test1 {
+    float: left;
+}
+
+.test2 {
+    float: right;
+}
+
+.bigHeaderTxt{
+    padding: 9px;
+}
+
+.maand1  {border-collapse:collapse;border-spacing:0;float: left}
+.maand1 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;width: 154px}
+.maand1 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand1 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand1 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #34cdf9;color: white;font-size: large;font-weight: bolder}
+
+.maand2  {border-collapse:collapse;border-spacing:0;float: left}
+.maand2 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; width: 154px}
+.maand2 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand2 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand2 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #ADD8E6;color: white;font-size: large;font-weight: bolder}
+
+.maand3  {border-collapse:collapse;border-spacing:0;float: left}
+.maand3 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; width: 154px}
+.maand3 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand3 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand3 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #D3D3D3;color: white;font-size: large;font-weight: bolder}
+
+.maand4  {border-collapse:collapse;border-spacing:0;float: left;margin-top: 10px }
+.maand4 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;width: 154px}
+.maand4 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand4 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand4 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #34cdf9;color: white;font-size: large;font-weight: bolder}
+
+.maand5  {border-collapse:collapse;border-spacing:0;float: left;margin-top: 10px}
+.maand5 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; width: 154px}
+.maand5 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand5 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand5 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #ADD8E6;color: white;font-size: large;font-weight: bolder}
+
+.maand6  {border-collapse:collapse;border-spacing:0;float: left;margin-top: 10px}
+.maand6 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; width: 154px}
+.maand6 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand6 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand6 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #D3D3D3;color: white;font-size: large;font-weight: bolder}
+
+.maand7  {border-collapse:collapse;border-spacing:0;float: left;margin-top: 10px}
+.maand7 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; width: 154px}
+.maand7 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand7 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand7 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #34cdf9;color: white;font-size: large;font-weight: bolder}
+
+.maand8  {border-collapse:collapse;border-spacing:0;float: left;margin-top: 10px}
+.maand8 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; width: 154px}
+.maand8 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand8 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand8 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #ADD8E6;color: white;font-size: large;font-weight: bolder}
+
+.maand9  {border-collapse:collapse;border-spacing:0;float: left;margin-top: 10px}
+.maand9 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; width: 154px}
+.maand9 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand9 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand9 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #D3D3D3;color: white;font-size: large;font-weight: bolder}
+
+.maand10  {border-collapse:collapse;border-spacing:0;float: left;margin-top: 10px}
+.maand10 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; width: 154px}
+.maand10 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand10 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand10 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #34cdf9;color: white;font-size: large;font-weight: bolder}
+
+.maand11  {border-collapse:collapse;border-spacing:0;float: left;margin-top: 10px}
+.maand11 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; width: 154px}
+.maand11 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand11 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand11 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #ADD8E6;color: white;font-size: large;font-weight: bolder}
+
+.maand12  {border-collapse:collapse;border-spacing:0;float: left;margin-top: 10px}
+.maand12 td{font-family:Arial, sans-serif;font-size:14px;padding:5px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; width: 154px}
+.maand12 th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.maand12 .numberCell{border-color:#8B86FF;text-align:left;vertical-align:top; height: 10px}
+.maand12 .months{border-color:#8B86FF;text-align:left; width: 329px; text-align: center; background-color: #D3D3D3;color: white;font-size: large;font-weight: bolder}
+

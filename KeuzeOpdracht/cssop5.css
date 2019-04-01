@@ -1,0 +1,64 @@
+.tabels {
+    border-collapse: collapse;
+    border-spacing: 0;
+    float: left
+}
+
+.tabels td {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    padding: 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: black;
+    width: 154px
+}
+
+.tabels th {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    border-style: solid;
+    border-width: 1px;
+    overflow: hidden;
+    word-break: normal;
+    border-color: black;
+}
+
+.cell {
+    border-color: #8B86FF;
+    text-align: left;
+    vertical-align: top;
+    height: 90px;
+}
+
+.months {
+    border-color: #8B86FF;
+    text-align: left;
+    width: 329px;
+    text-align: center;
+    background-color: #34cdf9;
+    color: white;
+    font-size: large;
+    font-weight: bolder
+}
+
+
+body {
+    width: 1000px;
+    margin: auto;
+}
+
+.left {
+    float: left;
+    width: 10%;
+}
+
+.right {
+    width: 90%;
+    text-align: right;
+    position: relative;
+    float: right;
+}
